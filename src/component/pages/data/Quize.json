@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "question": "What is HTML?",
+      "options": ["Programming Language", "Markup Language", "Database", "None"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is React?",
+      "options": ["Library", "Framework", "Language", "None"],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "What does CSS stand for?",
+      "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "None"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is JavaScript?",
+      "options": ["Programming Language", "Markup Language", "Style Sheet", "None"],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "Which of these is not a JavaScript framework?",
+      "options": ["Angular", "React", "Vue", "Django"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "What does the 'var' keyword do in JavaScript?",
+      "options": ["Declares a variable", "Defines a function", "Creates a constant", "None"],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "What is the correct syntax to import React in a file?",
+      "options": [
+        "import React from 'react';",
+        "import ReactJS;",
+        "require('react');",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "What is the default port for a React development server?",
+      "options": ["8000", "3000", "8080", "4000"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the use of the 'useState' hook in React?",
+      "options": [
+        "To manage state in functional components",
+        "To handle API requests",
+        "To create a context",
+        "None of the above"
+      ],
+      "answer": 0
+    }
+  ]
+  
